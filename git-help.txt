@@ -44,6 +44,12 @@
 		git push origin master
 
 
+查看自己的密钥：
+linux：
+		ls ~/.ssh  //id_rsa（私钥） id_rsa.pub（公钥）
+windows：
+		dir C:\Users\<YourUsername>\.ssh
+
 git常用命令：
 mkdir： XX (创建一个空目录 XX指目录名)
 pwd： 显示当前目录的路径。
